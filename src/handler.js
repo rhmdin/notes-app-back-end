@@ -35,4 +35,8 @@ const addNoteHandler = (request, h) => {
     return response
 };
 
+const getAllNotesHandler = (request, h) => {
+    
+};
+
 module.exports = { addNoteHandler };
